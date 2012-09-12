@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[{{ '${1:${TM_SELECTED_TEXT}}' | trans }}$0]]></content>
+    <scope>text.html.twig</scope>
+    <description>SF2: Twig I18N</description>
+</snippet>

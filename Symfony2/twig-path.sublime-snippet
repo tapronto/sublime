@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[{{ path('${1:url}') }}$0]]></content>
+    <scope>text.html.twig</scope>
+    <description>SF2: Twig path</description>
+</snippet>

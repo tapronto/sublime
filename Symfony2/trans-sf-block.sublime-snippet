@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[{% trans %}
+${1}
+{% endtrans %}]]></content>
+    <tabTrigger>trans</tabTrigger>
+    <scope>text.html.twig</scope>
+    <description>SF2: Twig I18N block</description>
+</snippet>

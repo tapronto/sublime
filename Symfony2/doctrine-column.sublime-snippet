@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[/**
+* @ORM\Column(type="${1:string}"${2:, length=${3:255}}${4:, nullable=true})
+*/]]></content>
+    <tabTrigger>col</tabTrigger>
+    <scope>source.php</scope>
+    <description>SF2: Doctrine Column annotation</description>
+</snippet>

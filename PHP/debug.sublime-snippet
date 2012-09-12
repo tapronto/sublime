@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[echo "<pre>"; print_r (${1:variable}); die("</pre>");]]></content>
+    <tabTrigger>dv</tabTrigger>
+    <scope>source.php</scope>
+    <description>PHP: debug with print_r</description>
+</snippet>
