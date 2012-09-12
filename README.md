@@ -1,5 +1,8 @@
 Some goodies created by our team and friends.
 
+	cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+	git clone git://github.com/tapronto/sublime.git Tapronto
+
 Themes: Monokai Soda Dark + dark sidebar
 -----
 
