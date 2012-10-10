@@ -1,5 +1,6 @@
 <snippet>
     <content><![CDATA[{{ path('${1:url}') }}$0]]></content>
+    <tabTrigger>path</tabTrigger>
     <scope>text.html.twig</scope>
     <description>SF2: Twig path</description>
 </snippet>
